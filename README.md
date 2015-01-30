@@ -1,5 +1,7 @@
 # Speak at ONE-SHOT <insert city name>!
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/oneshot/Austin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <insert dates and location details>
 
 ONE-SHOT is a one day single track speaker series presented by NodeConf.
